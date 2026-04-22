@@ -69,7 +69,7 @@ export default function Hero() {
               className="relative overflow-hidden rounded-md border border-slate-200 bg-gradient-to-b from-white to-slate-50 shadow-xl"
             >
               <motion.img
-                src="/images/prashant%20kashyap.png"
+                src="/images/prashant-kashyap.png"
                 alt="Dr. Prashant Kashyap in consultation room"
                 className="h-[500px] w-full object-contain object-bottom sm:h-[640px] lg:h-[680px]"
                 loading="eager"
